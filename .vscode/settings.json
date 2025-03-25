@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.automationProfile.osx": {},
+    "workbench.colorTheme": "Night Owl Light (No Italics)",
+    "python.REPL.enableREPLSmartSend": "false",
+    "files.trimTrailingWhitespaceInRegexAndStrings": false
+}
